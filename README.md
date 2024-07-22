@@ -118,7 +118,7 @@ while os.path.isfile(os.path.join(image_directory, f"input{image_number}.png")):
 
 **Example Input Image:**
 
-![Input](./input1.png)
+![Input](./Digits/input1.png)
 
 **Example Output:**
 
